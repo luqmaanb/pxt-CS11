@@ -1,0 +1,24 @@
+{
+    "name": "CS11",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ff.h",
+        "ff.cpp",
+        "diskio.h",
+        "ffconf.h",
+        "cs11.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
